@@ -1,4 +1,4 @@
-module github.com/mifikri/playground/go_php/2-microservice
+module github.com/Argha17/playground/go_php/2-microservice
 
 go 1.16
 
