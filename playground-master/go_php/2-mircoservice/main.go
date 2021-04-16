@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mifikri/playground/go_php/2-microservice/http"
-	"github.com/mifikri/playground/go_php/2-microservice/handler"
+	"github.com/Argha17/playground/go_php/2-microservice/http"
+	"github.com/Argha17/playground/go_php/2-microservice/handler"
 )
 
 func main() {
